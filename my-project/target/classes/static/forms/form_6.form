@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 2,
+  "components": [
+    {
+      "text": "# Firma del contrato",
+      "type": "text",
+      "id": "Field_097vocv"
+    },
+    {
+      "label": "Firma",
+      "type": "textfield",
+      "id": "Field_0p9da2h",
+      "key": "firma"
+    },
+    {
+      "text": "# Monto aprobado:",
+      "type": "text",
+      "id": "Field_003jo29"
+    },
+    {
+      "type": "textfield",
+      "id": "Field_1dczvhu",
+      "key": "montoSolicitado"
+    }
+  ],
+  "type": "default",
+  "id": "Form_0x5lo9a"
+}

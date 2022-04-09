@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 2,
+  "components": [
+    {
+      "text": "# Su préstamo ha sigo negado, gracias por usar el proceso.",
+      "type": "text",
+      "id": "Field_0zrm82i"
+    }
+  ],
+  "type": "default",
+  "id": "Form_048nf4c"
+}

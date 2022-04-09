@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 2,
+  "components": [
+    {
+      "text": "# Desea poner una Prenda sobre una propiedad?",
+      "type": "text",
+      "id": "Field_1qoefhb"
+    },
+    {
+      "values": [
+        {
+          "label": "Si",
+          "value": "si"
+        },
+        {
+          "label": "No",
+          "value": "no"
+        }
+      ],
+      "type": "radio",
+      "id": "Field_1vh62sl",
+      "key": "respuesta"
+    }
+  ],
+  "type": "default",
+  "id": "Form_0eor9z0"
+}

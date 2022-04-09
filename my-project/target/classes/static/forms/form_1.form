@@ -1,0 +1,55 @@
+{
+  "schemaVersion": 2,
+  "components": [
+    {
+      "text": "# Formulario",
+      "type": "text",
+      "id": "Field_1hcdpgg"
+    },
+    {
+      "label": "Nombre",
+      "type": "textfield",
+      "id": "Field_02b1rup",
+      "key": "nombre"
+    },
+    {
+      "label": "Primer Apellido",
+      "type": "textfield",
+      "id": "Field_13ugkeo",
+      "key": "apellido1"
+    },
+    {
+      "label": "Segundo Apellido",
+      "type": "textfield",
+      "id": "Field_148wwdu",
+      "key": "apellido2"
+    },
+    {
+      "values": [
+        {
+          "label": "Independiente",
+          "value": "independiente"
+        },
+        {
+          "value": "planilla",
+          "label": "En planilla"
+        }
+      ],
+      "label": "Tipo de Empleado",
+      "type": "radio",
+      "id": "Field_08dvhll",
+      "key": "tipo",
+      "validate": {
+        "required": true
+      }
+    },
+    {
+      "label": "Ingresos Mensuales",
+      "type": "textfield",
+      "id": "Field_0xk0ohj",
+      "key": "ingresos"
+    }
+  ],
+  "type": "default",
+  "id": "Form_12tg6q0"
+}

@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 2,
+  "components": [
+    {
+      "text": "# Registrar monto solicitado",
+      "type": "text",
+      "id": "Field_1sfzwmk"
+    },
+    {
+      "label": "Monto solicitado",
+      "type": "textfield",
+      "id": "Field_0j3858y",
+      "key": "montoSolicitado"
+    }
+  ],
+  "type": "default",
+  "id": "Form_0kp492y"
+}
